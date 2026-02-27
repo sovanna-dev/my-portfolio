@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.40f306df.css",
+    "main.js": "/my-portfolio/static/js/main.90627bea.js",
+    "static/media/CV_Sovanna.pdf": "/my-portfolio/static/media/CV_Sovanna.2abaad48340f43eb2e8c.pdf",
+    "static/media/profile.jpg": "/my-portfolio/static/media/profile.2a40dbbccbd17e712fbf.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.40f306df.css.map": "/my-portfolio/static/css/main.40f306df.css.map",
+    "main.90627bea.js.map": "/my-portfolio/static/js/main.90627bea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40f306df.css",
+    "static/js/main.90627bea.js"
+  ]
+}
