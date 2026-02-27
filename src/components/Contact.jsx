@@ -42,7 +42,7 @@ function Contact() {
                         <div className="contact-item">
                             <span className="info-label">LinkedIn</span>
                             <a
-                                href="https://linkedin.com/in/sovanna-ra"
+                                href="https://linkedin.com/in/sovanna-ra-866504347/"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="info-value link"
@@ -59,6 +59,17 @@ function Contact() {
                                 className="info-value link"
                             >
                                 github.com/sovanna-dev
+                            </a>
+                        </div>
+                        <div className="contact-item">
+                            <span className="info-label">Telegram</span>
+                            <a
+                                href="https://t.me/sovannara3"
+                                target="_blank"
+                                rel="noreferrer"
+                                className="info-value link"
+                            >
+                                @sovanna_ra
                             </a>
                         </div>
                     </div>

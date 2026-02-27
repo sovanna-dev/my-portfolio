@@ -9,6 +9,7 @@ import {
 import { SiFigma, SiTailwindcss } from "react-icons/si";
 import cvFile from '../assets/CV_Sovanna.pdf';
 import FadeInSection from "./FadeInSection";
+import profileImg from '../assets/profile.jpg';
 
 const techIcons = [
   { icon: <FaHtml5 />, name: "HTML", color: "#e34f26" },
@@ -51,6 +52,11 @@ function Hero() {
     </div>
   </FadeInSection>
 
+<FadeInSection direction="left" delay={0.2}>
+    <div className="hero-image">
+      <img src={profileImg} alt="Your Name" />
+    </div>
+  </FadeInSection>
   
 </section>
   );

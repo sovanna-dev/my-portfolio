@@ -18,12 +18,12 @@ const projects = [
     github: "https://github.com/sovanna-dev/portfolio-html-js",
   },
   {
-    id: 3,
-    title: "Project Three",
-    desc: "A short description of what this project does and what problem it solves.",
-    tags: ["React", "Tailwind"],
-    live: "https://your-live-link.com",
-    github: "https://github.com/sovanna-dev/project-three",
+    id: 1,
+    title: "Personal Portfolio Website",
+    desc: "Designed and built a fully responsive portfolio from scratch using React. Features include smooth scroll animations with Framer Motion, active nav tracking, EmailJS contact form, and CI/CD deployment via GitHub Pages.",
+    tags: ["React", "Framer Motion", "EmailJS", "GitHub Pages", "Responsive Design"],
+    live: "https://sovanna-dev.github.io/my-portfolio",
+    github: "https://github.com/sovanna-dev/my-portfolio",
   },
 ];
 

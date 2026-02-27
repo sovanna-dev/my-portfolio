@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaTelegram } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 
 function Footer() {
@@ -10,7 +10,7 @@ function Footer() {
 
         <div className="footer-links">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/sovanna-dev"
             target="_blank"
             rel="noreferrer"
             title="GitHub"
@@ -18,15 +18,23 @@ function Footer() {
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/in/yourprofile"
+            href="https://linkedin.com/in/sovanna-ra-866504347/"
             target="_blank"
             rel="noreferrer"
             title="LinkedIn"
           >
             <FaLinkedin />
           </a>
-          <a href="mailto:you@email.com" title="Email">
+          <a href="mailto:rasovanna785@email.com" title="Email">
             <MdEmail />
+          </a>
+          <a
+            href="https://t.me/sovannara3"
+            target="_blank"
+            rel="noreferrer"
+            title="Telegram"
+          >
+            <FaTelegram />
           </a>
         </div>
 
